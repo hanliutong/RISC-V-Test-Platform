@@ -1,0 +1,16 @@
+publish-over-ssh:latest
+ssh-credentials:latest
+ssh:latest
+
+git-parameter:latest
+git:latest
+
+workflow-aggregator:600.vb_57cdd26fdd7
+extended-choice-parameter:382.v5697b_32134e8
+github:1.40.0
+
+docker-plugin:latest
+docker-workflow:latest
+
+workflow-job:latest
+workflow-cps:3908.vd6b_b_5a_a_54010
